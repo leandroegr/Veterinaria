@@ -1,0 +1,24 @@
+[
+    {"nombre":"Equilibrio gatos","precio":"1300","disponible":"20","descripcion":"Ración para gatos adultos de interior. Alimento balanceado.", "images": [
+        "img/prod1.jpg",
+        "img/prod1_1.jpg"]},
+    {"nombre":"Pedigree","precio":"1800","disponible":"15","descripcion":"Ración para perros cachorros. Alimento balanceado.","images": [
+        "img/prod2.jpg",
+        "img/prod2_1.jpg"
+       ]},
+    {"nombre":"Caty","precio":"500","disponible":"35","descripcion":"Ración para gatitos. Alimento balanceado.","images": [
+        "img/prod3.jpg",
+        "img/prod3_1.jpg"
+        ]} ,
+    {"nombre":"Catchow","precio":"2500","disponible":"10","descripcion":"Comida para gato premium.","images": [
+        "img/prod4.jpg",
+        "img/prod4_1.jpg"
+        ]} ,
+    {"nombre":"Primocao","precio":"1200","disponible":"23","descripcion":"Comida para perro adulto.","images": [
+            "img/prod5.jpg"
+            ]} ,
+     {"nombre":"Paté de perro Primocao","precio":"98","disponible":"120","descripcion":"Paté para perro primocao.","images": [
+                "img/prod6.jpg",
+                "img/prod6_1.jpg"
+                ]}
+]

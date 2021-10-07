@@ -1,0 +1,50 @@
+{
+    "articles": [
+        {
+            "name": "Pino de olor para el auto",
+            "count": 2,
+            "unitCost": 100,
+            "currency": "UYU",
+            "src": "img/tree1.jpg"
+        },
+		{
+            "name": "Suzuki Celerio",
+            "count": 1,
+            "unitCost": 12500,
+            "currency": "USD",
+            "src": "img/prod3.jpg"
+        }
+        ,
+		{
+            "name": "Cubre asiento",
+            "count": 2,
+            "unitCost": 3000,
+            "currency": "UYU",
+            "src": "img/prod3.jpg"
+        }
+        ,
+		{
+            "name": "Luz creed LED H4",
+            "count": 1,
+            "unitCost": 1200,
+            "currency": "UYU",
+            "src": "img/prod3.jpg"
+        }
+        ,
+		{
+            "name": "CF moto NK 400",
+            "count": 1,
+            "unitCost": 6900,
+            "currency": "USD",
+            "src": "img/prod3.jpg"
+        }
+        ,
+		{
+            "name": "Casco integral LS2 ff3320",
+            "count": 1,
+            "unitCost": 2500,
+            "currency": "UYU",
+            "src": "img/prod3.jpg"
+        }
+    ]
+}
